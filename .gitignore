@@ -1,0 +1,6 @@
+# Raw dataset CSVs (transaction_data.csv is over GitHub's 100 MB limit)
+data/
+
+# Windows system files
+desktop.ini
+Thumbs.db

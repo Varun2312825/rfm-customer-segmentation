@@ -1,0 +1,8 @@
+segment,households,pct_households,sales_usd,pct_sales,avg_trips,avg_spend,avg_days_since_trip
+Champions,512,20.5,3684849,45.7,244,7196.97,2
+Loyal,328,13.1,1335084,16.6,164,4070.38,5
+At Risk,378,15.1,1305039,16.2,104,3452.48,34
+Potential Loyalists,305,12.2,684319,8.5,65,2243.67,2
+Needs Attention,299,12,576670,7.2,56,1928.66,7
+Hibernating,622,24.9,430231,5.3,32,691.69,77
+Occasional,56,2.2,41270,0.5,21,736.96,2
